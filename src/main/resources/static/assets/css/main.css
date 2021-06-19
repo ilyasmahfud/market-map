@@ -1,0 +1,37 @@
+body{
+    background-color:  #FFFFFF;
+    font-family: Roboto;
+}
+
+#mainContent{
+    margin-top: 40px;
+}
+
+img{
+    border-radius: 10%;
+}
+
+#search, #map{
+    margin-top: 50px;
+    padding: 10px;
+}
+
+input{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+#btnSubmited {
+
+    height: 40px;
+    width: 131px;
+    background-color: #adadad;
+    border-radius: 15px;
+}
+
+#btnSubmited:hover {
+    background-color: #84ACF8;
+}
